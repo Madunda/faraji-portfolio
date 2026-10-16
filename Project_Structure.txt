@@ -1,0 +1,16 @@
+faraji-portfolio/
+├── index.html
+├── mpi-project.html
+├── population-project.html
+├── r-analysis-project.html
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   └── images/
+│       └── faraji.jpg
+└── documents/
+    ├── Faraji_Madunda_CV.pdf
+    ├── statistical-analysis-with-r-certificate.pdf
+    └── multidimensional-poverty-certificate.pdf

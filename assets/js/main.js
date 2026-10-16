@@ -29,10 +29,3 @@ const yearElement = document.getElementById("year");
 if (yearElement) {
     yearElement.textContent = new Date().getFullYear();
 }
-
-/* Organisation and Institution Names */
-.organisation-name {
-    color: var(--accent);
-    font-weight: 700;
-    margin-bottom: 12px;
-}
